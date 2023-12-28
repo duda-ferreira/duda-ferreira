@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>{Maria Eduarda}!</strong>
+## 💜 Olá, meu nome é <strong>Maria Eduarda!</strong>
 
 Se você está lendo isso, é provável que também tenha descoberto o fascinante universo da programação.
 Minha jornada começou com uma curiosidade incontrolável, e desde então, tenho explorado as maravilhas da lógica de programação, algoritmos e linguagens de desenvolvimento.
